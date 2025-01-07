@@ -1,0 +1,9 @@
+move,0.998
+move up,0.999
+move down,0.9999
+turn 90deg CW,0.986
+turn 90deg CCW,0.986
+pick up,1
+place down,1
+wait,1
+leave,1
